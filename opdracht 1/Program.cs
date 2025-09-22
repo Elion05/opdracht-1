@@ -4,7 +4,7 @@ using System;
 class Program{
     static void Main(string[] args)
     {
-        //Naam van de opdracht
+        
         Console.WriteLine("Opdracht 1 Condities en iteraties in C#");
         Console.WriteLine("");
 
@@ -12,7 +12,7 @@ class Program{
         string gebruikers_input = Console.ReadLine();
 
 
-        //intro voor de code
+        //intro voor de gebruiker
         Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         Console.WriteLine("Kies één van de onderstaande methodes om jouw string om te keren");
         Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
